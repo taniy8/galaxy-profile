@@ -4,14 +4,11 @@ username: taniy8
 # Profile information displayed in the galaxy header
 profile:
   name: "Taniya Saxena"
-  tagline: "Backend · Systems · AI/ML · Open Source"
-  company: "Abes Institute of Technology"
-  location: "Ghaziabad, India"
-  bio: |
-    Building real, working systems from the ground up.
-    Active open source contributor across multiple stacks.
-  philosophy: '"just getting better than yesterday."'
-
+  tagline: "Backend Developer & Open Source Explorer"
+  company: ""
+  location: ""
+  bio: ""
+  philosophy: ""
 # Social links
 social:
   email: "taniyasaxena804@gmail.com"
