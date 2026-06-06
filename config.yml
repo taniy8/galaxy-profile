@@ -1,0 +1,42 @@
+# Your GitHub username (required)
+username: taniy8
+
+# Profile information displayed in the galaxy header
+profile:
+  name: "Taniya Saxena"
+  tagline: "Backend · Systems · AI/ML · Open Source"
+  company: "Abes Institute of Technology"
+  location: "Ghaziabad, India"
+  bio: |
+    Building real, working systems from the ground up.
+    Active open source contributor across multiple stacks.
+  philosophy: '"just getting better than yesterday."'
+
+# Social links
+social:
+  email: "taniyasaxena804@gmail.com"
+  linkedin: "taniyasaxena"
+  website: "https://github.com/taniy8"
+
+# Galaxy arms — your core focus areas
+galaxy_arms:
+  - name: "Backend"
+    color: "synapse_cyan"
+    items: ["Java", "Spring Boot", "Spring Security", "Redis", "PostgreSQL", "MySQL"]
+  - name: "Systems"
+    color: "dendrite_violet"
+    items: ["C++", "pybind11", "Linux", "Docker", "Maven"]
+  - name: "AI/ML"
+    color: "axon_amber"
+    items: ["Python", "PyTorch", "scikit-learn", "NumPy", "OpenAI", "TypeScript"]
+
+# Featured projects shown as orbital cards
+featured_systems:
+  - name: "jwt-refresh-token-springboot"
+    description: "Stateless JWT auth with refresh rotation and theft detection"
+    category: "Backend"
+    url: "https://github.com/taniy8/jwt-refresh-token-springboot"
+  - name: "smart-education"
+    description: "AI-powered academic platform with Spring AI + GPT"
+    category: "AI/ML"
+    url: "https://github.com/taniy8/smart-education"
