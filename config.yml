@@ -30,13 +30,9 @@ galaxy_arms:
     color: "axon_amber"
     items: ["Python", "PyTorch", "scikit-learn", "NumPy", "OpenAI", "TypeScript"]
 
-# Featured projects shown as orbital cards
-featured_systems:
-  - name: "jwt-refresh-token-springboot"
-    description: "Stateless JWT auth with refresh rotation and theft detection"
-    category: "Backend"
-    url: "https://github.com/taniy8/jwt-refresh-token-springboot"
-  - name: "smart-education"
-    description: "AI-powered academic platform with Spring AI + GPT"
-    category: "AI/ML"
-    url: "https://github.com/taniy8/smart-education"
+# Projects shown as orbital stars
+projects:
+  - repo: "jwt-refresh-token-springboot"
+    arm: 0
+  - repo: "smart-education"
+    arm: 2
